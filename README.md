@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **cool stuff**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **mixail.zaikov01@gmail.com**
 
